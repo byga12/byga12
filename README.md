@@ -1,7 +1,7 @@
 # Gabriel Shimabuku
 21 yrs  
 Buenos Aires, Argentina.  
-
+Self-taught web developer. I like playing videogames and listening to music.
 
 
 
