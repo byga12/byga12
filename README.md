@@ -1,9 +1,9 @@
 # Gabriel Shimabuku
+
+### Contact: shimabuku.gabriel@gmail.com
 22 yrs  
 Buenos Aires, Argentina.  
 
-
-### Contact: shimabuku.gabriel@gmail.com
 
 ### Techs
 - React.js
