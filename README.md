@@ -8,7 +8,11 @@ Buenos Aires, Argentina.
 ### Techs
 - React.js
 - Next.js
-- Java
+- Typescript
+- Svelte
+- Go
+- Python/Django
+- C#/.NET
 - MySQL
 
 <!--
